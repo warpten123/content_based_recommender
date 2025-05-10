@@ -1,0 +1,16 @@
+Name,Type,Budget,Bulky,Energy Efficient
+BUILD 1 ,Gaming,Low Tier,Bulky,Energy Yes
+BUILD 2 ,Gaming,Mid Tier,Bulky,Energy No
+BUILD 3 ,Gaming,High Tier,Bulky,Energy No
+BUILD 4 ,Office,Low Tier,Not Bulky,Energy Yes
+BUILD 5 ,Office,Mid Tier,Not Bulky,Energy Yes
+BUILD 6 ,Office,High Tier,Not Bulky,Energy Yes
+BUILD 7 ,Editing,Low Tier,Bulky,Energy No
+BUILD 8,Editing,Mid Tier,Bulky,Energy No
+BUILD 9 ,Editing,High Tier,Bulky,Energy Yes
+BUILD 10 ,General,Low Tier,Not Bulky,Energy Yes
+BUILD 11 ,General,Mid Tier,Not Bulky,Energy Yes
+BUILD 12 ,General,High Tier,Not Bulky,Energy Yes
+BUILD 13,Gaming,Mid Tier,Bulky,Energy Yes
+BUILD 14 ,Gaming,High Tier,Bulky,Energy Yes
+BUILD 15 ,Office,Mid Tier,Not Bulky,Energy Yes

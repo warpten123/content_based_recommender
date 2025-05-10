@@ -1,0 +1,229 @@
+{
+    "recommendations": [
+      {
+        "build_index": "0",
+        "build_price": 22256,
+        "build_specs": {
+          "cpu": "AMD Ryzen 5 5600G (with Vega iGPU)",
+          "gpu": "Integrated Vega 7",
+          "motherboard": "A520M (Micro ATX)",
+          "ram": "16GB (2x8GB) DDR4 3200MHz",
+          "storage": "500GB SATA SSD",
+          "psu": "450W 80+ Bronze",
+          "case": "Micro ATX Case (Not Bulky)",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "1",
+        "build_price": 33384,
+        "build_specs": {
+          "cpu": "Ryzen 5 5500",
+          "gpu": "NVIDIA GTX 1660 6GB",
+          "motherboard": "B450 ATX",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB SATA SSD",
+          "psu": "600W 80+ Bronze",
+          "case": "ATX Mid Tower",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "2",
+        "build_price": 55640,
+        "build_specs": {
+          "cpu": "Ryzen 5 7600",
+          "gpu": "NVIDIA RTX 3060 12GB",
+          "motherboard": "B650 ATX",
+          "ram": "32GB DDR5 5600MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "650W 80+ Gold",
+          "case": "ATX Gaming Case",
+          "cooling": "Tower Air Cooler"
+        }
+      },
+      {
+        "build_index": "3",
+        "build_price": 16692,
+        "build_specs": {
+          "cpu": "Intel Core i3-10100",
+          "gpu": "Integrated UHD 630",
+          "motherboard": "H510M",
+          "ram": "8GB DDR4 2666MHz",
+          "storage": "256GB SATA SSD",
+          "psu": "400W 80+ White",
+          "case": "Slim Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "4",
+        "build_price": 25038,
+        "build_specs": {
+          "cpu": "Ryzen 5 5600G",
+          "gpu": "Integrated Vega 7",
+          "motherboard": "A520M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "512GB SATA SSD",
+          "psu": "450W 80+ Bronze",
+          "case": "Compact Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "5",
+        "build_price": 41730,
+        "build_specs": {
+          "cpu": "Intel Core i5-13400",
+          "gpu": "Integrated UHD 730",
+          "motherboard": "B660M",
+          "ram": "32GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Compact ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "6",
+        "build_price": 25038,
+        "build_specs": {
+          "cpu": "Ryzen 5 5600G",
+          "gpu": "Integrated Vega 7",
+          "motherboard": "A520M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB SATA HDD + 256GB SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "ATX Mid Tower",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "7",
+        "build_price": 41730,
+        "build_specs": {
+          "cpu": "Ryzen 5 5600",
+          "gpu": "Radeon RX 6600 8GB",
+          "motherboard": "B450 ATX",
+          "ram": "32GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "600W 80+ Bronze",
+          "case": "ATX Tower",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "8",
+        "build_price": 83460,
+        "build_specs": {
+          "cpu": "Ryzen 7 7700X",
+          "gpu": "NVIDIA RTX 4070 12GB",
+          "motherboard": "X670 ATX",
+          "ram": "64GB DDR5 6000MHz",
+          "storage": "2TB NVMe SSD + 2TB HDD",
+          "psu": "750W 80+ Gold",
+          "case": "Full ATX Tower",
+          "cooling": "240mm AIO Liquid Cooler"
+        }
+      },
+      {
+        "build_index": "9",
+        "build_price": 13910,
+        "build_specs": {
+          "cpu": "Intel Pentium Gold G6400",
+          "gpu": "Integrated UHD Graphics",
+          "motherboard": "H410M",
+          "ram": "8GB DDR4",
+          "storage": "256GB SSD",
+          "psu": "400W 80+ White",
+          "case": "Slim Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "10",
+        "build_price": 19474,
+        "build_specs": {
+          "cpu": "Ryzen 3 4100",
+          "gpu": "Integrated Vega",
+          "motherboard": "A320M",
+          "ram": "8GB DDR4",
+          "storage": "512GB SSD",
+          "psu": "450W 80+ Bronze",
+          "case": "Mini ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "11",
+        "build_price": 27820,
+        "build_specs": {
+          "cpu": "Ryzen 5 5600G",
+          "gpu": "Integrated Vega 7",
+          "motherboard": "A520M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "12",
+        "build_price": 27820,
+        "build_specs": {
+          "cpu": "Ryzen 5 5600G",
+          "gpu": "Integrated Vega 7",
+          "motherboard": "A520M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "13",
+        "build_price": 27950,
+        "build_specs": {
+          "cpu": "Intel Core i3-12100F",
+          "gpu": "Intel Arc A380 6GB",
+          "motherboard": "B660M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "14",
+        "build_price": 27950,
+        "build_specs": {
+          "cpu": "Intel Core i3-12100F",
+          "gpu": "Intel Arc A380 6GB",
+          "motherboard": "B660M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Micro ATX",
+          "cooling": "Stock"
+        }
+      },
+      {
+        "build_index": "15",
+        "build_price": 27950,
+        "build_specs": {
+          "cpu": "Intel Core i3-12100F",
+          "gpu": "Intel Arc A380 6GB",
+          "motherboard": "B660M",
+          "ram": "16GB DDR4 3200MHz",
+          "storage": "1TB NVMe SSD",
+          "psu": "500W 80+ Bronze",
+          "case": "Micro ATX",
+          "cooling": "Stock"
+        }
+      }
+    ]
+  }
+  
